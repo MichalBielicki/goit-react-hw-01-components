@@ -1,0 +1,19 @@
+.transaction__history {
+  width: 600px;
+}
+.head {
+  color: white;
+  background-color: rgb(94, 204, 255);
+  height: 35px;
+  text-transform: uppercase;
+}
+.body {
+  color: grey;
+}
+.row {
+  height: 35px;
+}
+.row:nth-child(2n) {
+  height: 35px;
+  background-color: rgb(233, 233, 245);
+}
